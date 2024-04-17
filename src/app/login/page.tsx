@@ -22,7 +22,7 @@ export default function page() {
                 htmlFor="email"
                 className="block text-sm font-medium text-gray-700"
               >
-                メールアドレス
+                メールアドレス！！
               </label>
               <input
                 id="email"
