@@ -9,7 +9,7 @@ export const Post = () => {
             className="w-10 h-10 rounded-full mr-2"
             src="https://via.placeholder.com/150"
             alt="User Avatar"
-            width={40}
+            width={60}
             height={40}
           />
           <div>
