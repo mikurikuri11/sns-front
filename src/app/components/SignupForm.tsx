@@ -35,7 +35,7 @@ export const SignupForm = () => {
                 htmlFor="email"
                 className="block text-sm font-medium text-gray-700"
               >
-                お名前
+                お名前!!
               </label>
               <input
                 id="name"
